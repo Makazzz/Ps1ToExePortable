@@ -5,11 +5,11 @@
 # Ps1ToExe Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-	<a href="https://github.com/Makazzz/Ps1ToExePortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/Ps1ToExePortable?color=DFE3F0&logo=**Choose**"></a>
-	<a href="https://github.com/Makazzz/Ps1ToExePortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/Ps1ToExePortable/latest/total?color=B5BEDA"></a>
-	<a href="https://github.com/Makazzz/Ps1ToExePortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/Ps1ToExePortable/total?color=DFE3F0"></a>
-	<a href="https://github.com/Makazzz/Ps1ToExePortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/Ps1ToExePortable?color=B5BEDA"></a>
-	<a href="https://raw.githubusercontent.com/Makazzz/Ps1ToExePortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/Ps1ToExePortable?color=DFE3F0"></a>
+	<a href="https://github.com/Makazzz/Ps1ToExePortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/Ps1ToExePortable?color=A4B1D8&logo=**Choose**"></a>
+	<a href="https://github.com/Makazzz/Ps1ToExePortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/Ps1ToExePortable/latest/total?color=1A274D"></a>
+	<a href="https://github.com/Makazzz/Ps1ToExePortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/Ps1ToExePortable/total?color=A4B1D8"></a>
+	<a href="https://github.com/Makazzz/Ps1ToExePortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/Ps1ToExePortable?color=1A274D"></a>
+	<a href="https://raw.githubusercontent.com/Makazzz/Ps1ToExePortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/Ps1ToExePortable?color=A4B1D8"></a>
 </p>
 
 Convert PowerShell files to EXE.

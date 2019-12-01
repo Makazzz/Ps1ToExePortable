@@ -16,7 +16,7 @@ Convert PowerShell files to EXE.
 
 Ps1ToExe is an application that can convert PowerShell (.ps1) files to the EXE (.exe) format.
 
-My post on the [PortableApps.com forum](https://portableapps.com/node/NodeID)
+My post on the [PortableApps.com forum](https://portableapps.com/node/61304)
 
 ## Download
 

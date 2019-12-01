@@ -1,0 +1,12 @@
+# Ignore App folder
+Ps1ToExePortable/App/Ps1ToExe/Ps1_To_Exe.exe
+Ps1ToExePortable/App/Ps1ToExe/Ps1_To_Exe_(x64).exe
+
+# Ignore Data folder
+Ps1ToExePortable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini

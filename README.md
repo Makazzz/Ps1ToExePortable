@@ -43,7 +43,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*	Ps1ToExe Portable is a redistribution of [Ps1ToExe](https://github.com/99fk/Bat-To-Exe-Converter-Downloader), developed by [Fatih Kodak](https://github.com/99fk).
+*	Ps1ToExe Portable is a redistribution of [Ps1ToExe](https://github.com/99fk/Ps1-To-Exe-Downloader), developed by [Fatih Kodak](https://github.com/99fk).
 *	[PortableApps.com platform](https://PortableApps.com/download) developed by the [PortableApps.com team](https://PortableApps.com).
 
 ## License
